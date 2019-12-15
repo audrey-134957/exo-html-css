@@ -1,0 +1,39 @@
+Hello O'clock !
+Avec ce qu'on a compris de HTML, facile de créer une première page avec plein de nouvelles balises dedans !
+
+Cours
+Comme une liste par exemple. Pratique pour récapituler la journée.
+
+La plateforme de cours
+le Téléporteur
+le Cockpit
+les Fiches Récap
+la Forge
+Balises HTML
+Aujourd'hui, on a découvert les balises HTML. Voilà celles que je connais.
+
+html
+head
+title
+body
+h1...h6
+p
+strong
+ul
+ol
+li
+Les paragraphes
+Un premier paragraphe : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Un deuxième paragraphe : Il parait qu'on peut générer automatiquement un faux texte, en tapant "lorem" puis en appuyant sur la touche Tab.
+
+D'autres balises ?
+Une citation ?
+Sur un arbre perché...
+
+La Fontaine
+Mise en valeur sémantique du texte
+Dans ce texte on met en valeur certains passages plus importants que d'autres. Certains sont même beaucoup plus importants que d'autres.
+
+Indiquer des modifs
+Je veux pouvoir indiquer qu'un contenu a été retiré, ou qu'un nouveau contenu a été inséré.

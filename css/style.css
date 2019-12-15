@@ -1,0 +1,19 @@
+.heading--is-h1{
+    color:red;
+}
+
+.heading--is-h2{
+    color:cyan;
+}
+
+.heading--is-h3{
+    color:green;
+}
+
+.overlined{
+    text-decoration: line-through;
+}
+
+.underlined{
+    text-decoration: underline;
+}

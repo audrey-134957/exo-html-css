@@ -1,3 +1,1 @@
-# support-html-css
-
-Support de cours
+Silence is golden ;)
